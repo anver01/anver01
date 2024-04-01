@@ -1,11 +1,11 @@
 ###
 
-<table>
-  <tr>
-    <td valign="top"><h2>Hi, I am Anshit Verma!</h2></td>
-    <td valign="top"><img src="https://visitor-badge.laobi.icu/badge?page_id=anver01.anver01&" /></td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between">
+  <h2>Hi, I am Anshit Verma!</h2>
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=anver01.anver01&" />
+  </div>
+</div>
 
 ###
 
