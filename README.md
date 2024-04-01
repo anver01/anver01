@@ -1,5 +1,5 @@
 ###
-<div style="display: flex;>
+<div style="display: flex; align-items: center;">
   <h2 align="left">Hi, I am Anshit Verma!</h2>
   
   <div align="right">
